@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
 Copyright (C) 2013 The Android Open Source Project
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -29,4 +28,8 @@ limitations under the License.
     <string name="imagesAndTextLabel">Images &amp; Text</string>
     <string name="temperature">53 °F</string>
     <string name="customViewLabel">Custom View</string>
+    <string name="title_activity_edit_text">Acessibilidade Edicão de Texto</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
 </resources>
