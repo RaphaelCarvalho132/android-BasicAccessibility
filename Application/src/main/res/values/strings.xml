@@ -29,7 +29,12 @@ limitations under the License.
     <string name="temperature">53 °F</string>
     <string name="customViewLabel">Custom View</string>
     <string name="title_activity_edit_text">Acessibilidade Edicão de Texto</string>
+    <string name="title_activity_selecao_data">Acessibilidade Seleção de Data</string>
 
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
+    <string name="selecionar_data">Selecionar Data</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
