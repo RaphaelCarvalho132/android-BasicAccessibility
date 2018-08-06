@@ -31,7 +31,8 @@
         android:theme="@style/Theme.AppCompat">
         <activity
             android:name=".MainActivity"
-            android:label="@string/app_name">
+            android:label="@string/app_name"
+            android:launchMode="singleTask">
             <intent-filter>
                 <category android:name="android.intent.category.DEFAULT" />
 
@@ -42,7 +43,8 @@
         </activity>
         <activity
             android:name=".EditTextActivity"
-            android:label="@string/title_activity_edit_text">
+            android:label="@string/title_activity_edit_text"
+            android:launchMode="singleTask">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -50,7 +52,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".SelecaoDataActivity"
-            android:label="@string/title_activity_selecao_data">
+            android:label="@string/title_activity_selecao_data"
+            android:launchMode="singleTask">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
